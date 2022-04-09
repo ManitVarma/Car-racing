@@ -1,0 +1,24 @@
+#game{
+    text-align: center;
+    background-image: url(MMRTAI.jpg);
+    color: gold;
+    background-size: cover;
+}
+body{
+    text-align: center;
+}
+#cridit{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+#MyCanvas{
+    border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+    background-image: url(https://cdni.autocarindia.com/ExtraImages/20200911040444_VW-Polo-MMRT.jpg);
+    background: center;
+}
+h3{
+    color: white !important;
+}
